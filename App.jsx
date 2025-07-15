@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppProvider, useApp } from './contexts/AppContext';
+import { AppProvider, useApp } from './AppContext';
 import { Navigation } from './components/Navigation';
 import { PlayersView } from './components/PlayersView';
 import { TeamsView } from './components/TeamsView';
